@@ -1,1 +1,1 @@
-# Lab2-09-02-2022
+# Lab2: practice ex_02
